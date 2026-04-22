@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Hasancan! 👋
 
-<!--
-**HasancanGunsay/HasancanGunsay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Physics Student | Data Science & Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I combine my passion for understanding the physical world through mathematical models with the analytical power of Data Science. I focus on extracting meaningful insights from complex datasets and developing solutions ranging from seismic data modeling to quantum protocols.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Technical Skills
+
+* **Programming:** Python (Pandas, NumPy, Scikit-learn, SciPy, Matplotlib)
+* **Data Analysis:** Exploratory Data Analysis (EDA), Time Series Analysis, Signal Processing (Fourier Transform)
+* **Physics & Modeling:** Quantum Key Distribution (BB84), Seismic Data Modeling, Physical Simulations
+* **Tools:** Git, GitHub, Kaggle, VS Code, LaTeX
+
+---
+
+## 🚀 Featured Projects
+
+> *Note: I am currently working on my graduation thesis and other academic projects. I will be sharing them here soon!*
+
+* **[Kaggle Notebooks]** - Data science analysis and competition notebooks.
+* **[Seismic Signal Analysis]** - (Link will be added soon)
+
+---
+
+## 📫 Connect with me
+
+* **LinkedIn:** [Your LinkedIn Profile Link]
+* **Kaggle:** [Your Kaggle Profile Link]
+* **Email:** [Your Email Address]
+
+---
+
+*"Data is the new laboratory of modern physics."* 🔬📊
