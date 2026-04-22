@@ -26,9 +26,9 @@ I combine my passion for understanding the physical world through mathematical m
 
 ## 📫 Connect with me
 
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Kaggle:** [Your Kaggle Profile Link]
-* **Email:** [Your Email Address]
+* **LinkedIn:** [https://www.linkedin.com/in/hasancangunsay]
+* **Kaggle:** [https://www.kaggle.com/hasancangnsay]
+* **Email:** [hasancangunsay16@gmail.com]
 
 ---
 
